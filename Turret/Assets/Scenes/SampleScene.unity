@@ -1146,6 +1146,14 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 753353396}
     - target: {fileID: 348818035565877501, guid: 98d238b0c79abd347a1371a445976d5f, type: 3}
+      propertyPath: bulletPos
+      value: 
+      objectReference: {fileID: 1107669929}
+    - target: {fileID: 348818035565877501, guid: 98d238b0c79abd347a1371a445976d5f, type: 3}
+      propertyPath: bulletPrefab
+      value: 
+      objectReference: {fileID: 3058021949038638153, guid: b53c686306cf5db4eb1f1c9aebd130af, type: 3}
+    - target: {fileID: 348818035565877501, guid: 98d238b0c79abd347a1371a445976d5f, type: 3}
       propertyPath: playerObject
       value: 
       objectReference: {fileID: 753353394}
@@ -1208,7 +1216,7 @@ PrefabInstance:
     - target: {fileID: 8351593192113676275, guid: 98d238b0c79abd347a1371a445976d5f, type: 3}
       propertyPath: bulletPos
       value: 
-      objectReference: {fileID: 1982800608890520098, guid: 98d238b0c79abd347a1371a445976d5f, type: 3}
+      objectReference: {fileID: 1107669929}
     - target: {fileID: 8351593192113676275, guid: 98d238b0c79abd347a1371a445976d5f, type: 3}
       propertyPath: BulletPrefab
       value: 
